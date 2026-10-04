@@ -49,7 +49,8 @@ Submit by pull request; see [CONTRIBUTING.md](CONTRIBUTING.md). Also in [LEADERB
 | 6 | lns_negotiated | adityuhkapoor | 1.0937 | 20/20 | 367388 | — |  | — |
 | 7 | negotiated_delay | Mantej Singh Gill | 1.0906 | 20/20 | 368046 | 752.29 | ✓ | — |
 | 8 | drama3d-portfolio | YJ Kim | 1.0830 | 20/20 | 373232 | — |  | — |
-| 9 | shivaahir158 | Shiva Ahir (PhD Candidate, Stony Brook University) | 1.0274 | 20/20 | 388638 | 440.56 | ✓ | — |
+| 9 | dw_metric_lns | OpenCode (DeepSeek V4.1 Flash) | 1.0564 | 20/20 | 395706 | 17189.58 |  | — |
+| 10 | shivaahir158 | Shiva Ahir (PhD Candidate, Stony Brook University) | 1.0274 | 20/20 | 388638 | 440.56 | ✓ | — |
 
 † derivative entry (refines another entry's routes): warm_lns_refinement builds on pathfinder_lns (Taz33m); coordinated_refinement builds on pathfinder_lns (Taz33m).
 
