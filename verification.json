@@ -1,3 +1,9 @@
 {
-  "_doc": "Maintainer-set reproduction status per leaderboard entry, keyed \"<tier>/<submission>\". Set an entry to {\"status\": \"reproduced\", \"by\": \"<maintainer>\", \"date\": \"YYYY-MM-DD\", \"note\": \"...\"} after re-running its router and reproducing its routes, then run `python -m m3d.cli leaderboard-all`. Submission PRs cannot change this file."
+  "_doc": "Maintainer-set reproduction status per leaderboard entry, keyed \"<tier>/<submission>\". Set an entry to {\"status\": \"reproduced\", \"by\": \"<maintainer>\", \"date\": \"YYYY-MM-DD\", \"note\": \"...\"} after re-running its router and reproducing its routes, then run `python -m m3d.cli leaderboard-all`. Submission PRs cannot change this file.",
+  "hard/anvesh": {
+    "status": "reproduced",
+    "by": "Partcl maintainers",
+    "date": "2026-10-04",
+    "note": "Re-ran my_router.py from PR #7 (--suite benchmarks_hard, fixed seed 1) in a network-less sandbox: case_01-07 and case_09 byte-identical to the submitted files; case_08 is time-budget dependent (150 s -> 26420, 180 s -> 25830; submitted 26270), bracketing the submitted aggregate within 0.2%."
+  }
 }
