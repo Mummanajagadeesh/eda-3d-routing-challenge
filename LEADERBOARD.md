@@ -34,11 +34,11 @@ do not edit it by hand.
 | 3 | coordinated_refinement † | jay-tau | 1.3858 | 9/9 | 145305 | — |  | — |
 | 4 | reubalink | reubalink | 1.3622 | 9/9 | 147825 | — |  | — |
 | 5 | spt_lns | James (IrwinJam) | 1.3609 | 9/9 | 148193 | — |  | — |
-| 6 | erikqu_root_aware_portfolio | erikqu | 1.2745 | 9/9 | 158455 | — |  | — |
-| 7 | lns_negotiated | adityuhkapoor | 1.2267 | 9/9 | 165367 | — |  | — |
-| 8 | anvesh | anvesh | 1.1863 | 9/9 | 169737 | — |  | — |
-| 9 | negotiated_delay | Mantej Singh Gill | 1.1499 | 9/9 | 175879 | 105.39 | ✓ | — |
-| 10 | iamparv7043 | Parv (iamparv7043) | 1.1495 | 9/9 | 175851 | 159.66 | ✓ | — |
+| 6 | iamparv7043 | Parv (iamparv7043) | 1.3019 | 9/9 | 155125 | 7333.40 | ✓ | — |
+| 7 | erikqu_root_aware_portfolio | erikqu | 1.2745 | 9/9 | 158455 | — |  | — |
+| 8 | lns_negotiated | adityuhkapoor | 1.2267 | 9/9 | 165367 | — |  | — |
+| 9 | anvesh | anvesh | 1.1863 | 9/9 | 169737 | — |  | — |
+| 10 | negotiated_delay | Mantej Singh Gill | 1.1499 | 9/9 | 175879 | 105.39 | ✓ | — |
 | 11 | drama3d-portfolio | YJ Kim | 1.1121 | 9/9 | 181919 | — |  | — |
 | 12 | shivaahir158 | Shiva Ahir (PhD Candidate, Stony Brook University) | 1.0508 | 9/9 | 192507 | 787.30 |  | — |
 | 13 | negotiated_x2 | Anthropic (reference) | 1.0168 | 9/9 | 198763 | 177.01 |  | — |
