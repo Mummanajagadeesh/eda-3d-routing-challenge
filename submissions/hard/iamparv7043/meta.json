@@ -1,6 +1,6 @@
 {
  "author": "Parv (iamparv7043)",
  "url": "",
- "method": "Per-sink shortest-path-tree negotiated-congestion routing + hard-blocked rip-up delay refinement",
- "date": "2026-10-02"
+ "method": "numba A* engine; negotiated-congestion portfolio (shared / per-sink / Prim trees) + large-neighbourhood search (blocker eviction, window ruin-and-recreate), best of 3 seeds",
+ "date": "2026-10-04"
 }
